@@ -1,6 +1,9 @@
 # Odin Recipes
 
-This is a basic recipe site with 3 recipes.
+This website it shows you recipes to make. This is an project to learn HTML.
 
-
-By writing this website i will understand basic html semantics.
+# What skiis i accumulated?
+  - Basic HTML boilerplate
+  - Working with text
+  - Working with images and links
+  - Git commit messages
