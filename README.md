@@ -7,4 +7,8 @@ This website it shows you recipes to make. This is an project to learn HTML.
   - Working with text
   - Working with images and links
   - Git commit messages
-  - Git atomic commits
+  - CSS Basics
+  - Cascading in CSS
+  - inline vs block elements
+  - Centering a div
+  - Stylizing text in CSS 
