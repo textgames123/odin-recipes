@@ -1,0 +1,45 @@
+a {
+  display: block;
+}
+
+#intro {
+  background-color: cadetblue;
+}
+
+
+#pancake-image {
+  width: 540px;
+  height: auto;
+  margin: 0px auto;
+}
+
+
+#ingredients {
+  background-color: rgb(83, 146, 149);
+}
+
+#steps {
+  background-color: rgb(113, 197, 199);
+}
+
+#links {
+  background-color: rgb(113, 197, 199);
+}
+
+#ingredients h1,
+#steps h1,
+#links h1 {
+  padding-bottom: 10px;
+}
+
+#corn-on-the-grill-image {
+  width: 512px;
+  height: auto;
+  margin: 0px auto;
+}
+
+#boiled-eggs-image {
+  width: 500px;
+  height: auto;
+  margin: 0px auto;
+}
