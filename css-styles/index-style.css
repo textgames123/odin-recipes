@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#header {
+  background-color: #1A66CC;
+  padding: 30px;
+  text-align: center;
+}
+
+#header h1 {
+  color: aliceblue;
+}
+
+#header p {
+  color: white;
+}
+
+#recipes {
+  display: block;
+  background-color: #3E96F4;
+  margin: 10px;
+  text-align: center;
+  padding: 30px;
+
+  height: auto;
+  width: auto;
+}
+
+#recipes ul {
+  list-style: none;
+}
+
+#recipes * {
+  margin-top: 10px;
+  color: white;
+}
