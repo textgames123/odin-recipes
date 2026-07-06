@@ -43,3 +43,9 @@ a {
   height: auto;
   margin: 0px auto;
 }
+
+#links,
+#ingredients,
+#steps {
+  padding: 20px;
+}
